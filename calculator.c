@@ -7,7 +7,8 @@ float cikar(float a, float b) {
 	return a - b;
 }
 float carp(float a, float b) {
-	return a * b:
+	return a * b;
+}
 float bol(float a, float b) {
 	return a / b;
 }
